@@ -1,0 +1,36 @@
+2019-01-31 01:33:04 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 01:33:04 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 01:35:29 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 01:35:29 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 01:45:20 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 01:45:20 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 01:46:11 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 01:46:11 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 01:51:59 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 01:51:59 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 01:52:25 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 01:52:25 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 02:03:47 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 02:03:47 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 02:03:47 INFO main.go:422 main.main  MockServe begin:8083
+
+2019-01-31 02:05:19 INFO TBLogger.go:84 MockWeChatLogin/src/TBLogger.init.0  创建TbLogger成功!
+
+2019-01-31 02:05:19 INFO TBCache.go:41 MockWeChatLogin/src/TBCache.init.0  初始化Cache成功
+
+2019-01-31 02:05:19 INFO main.go:425 main.main  MockServe begin:8083
+
